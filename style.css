@@ -2,3 +2,25 @@
     margin: 0;
     padding: 0;
 }
+.header-conteiner{
+    background-image: url(images/Cow-market\ 2\ eid\ 2020.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.div-content{
+    color: white;
+    width: 50%;
+    padding-top: 120px;
+    margin-left: 80px;
+    
+}
+.donation-link{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 1px solid red;
+}
